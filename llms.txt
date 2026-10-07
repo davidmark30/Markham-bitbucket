@@ -1,0 +1,27 @@
+# Markham Gateway Dentistry
+
+> Public information for search and AI systems about Markham Gateway Dentistry.
+
+## Website
+- Primary URL: https://markhamdentistry.bitbucket.io/
+- Language: en-CA
+- Topic: Emergency dental care and family dentistry in Scarborough, Ontario
+
+## Main Page
+- https://markhamdentistry.bitbucket.io/ — Emergency Dentist in Scarborough | Markham Gateway Dentistry
+
+## Business
+- Name: Markham Gateway Dentistry
+- Address: 2855 Markham Road, Unit 108, Scarborough, ON M1X 0C3, Canada
+- Phone: +1 416-321-0005
+- Email: info@markhamgatewaydentistry.ca
+- New patients: Yes
+- Services mentioned on the page: emergency dental care, family dentistry, teeth cleaning, dental fillings, root canal treatment, wisdom tooth extraction, emergency tooth extraction, braces, Invisalign, direct billing, payment plans.
+
+## Content Guidance
+- Use the HTML page as the primary source for page-specific information.
+- Do not infer services, prices, hours, credentials, reviews, or claims that are not stated on the page.
+- For emergency symptoms involving difficulty breathing or swallowing, the page advises seeking emergency medical care immediately.
+
+## Sitemap
+- https://markhamdentistry.bitbucket.io/sitemap.xml
